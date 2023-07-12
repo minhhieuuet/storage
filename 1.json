@@ -1,0 +1,36 @@
+{
+  "name": "Watda F*sh #10 - Cutie",
+  "image": "https://d217mgts2rn7qp.cloudfront.net/KPt4phwecDHsJDbJoV78rRfcX/10.png",
+  "description": "A quirky fish",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lagoon"
+    },
+    {
+      "trait_type": "Body & Skin",
+      "value": "Glassfish"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Hat & Hair",
+      "value": "Fin"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Reluctant"
+    },
+    {
+      "trait_type": "Offhand",
+      "value": "Cocktail"
+    },
+    {
+      "trait_type": "Suit & Cloth",
+      "value": "T-shirt"
+    }
+  ],
+  "external_url": "https://watda.fish"
+}
